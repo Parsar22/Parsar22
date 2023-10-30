@@ -2,7 +2,7 @@ Hello there,
 
 Welcome to my GitHub profile! I am Parsa, a computer science major with a strong interest in AI, machine learning, and web development.
 
-Currently, I am working on a web application using React.js to enhance my front-end development skills and create exceptional user experiences.
+Currently, I am working on a cross-platform application using Flutter to Make accesss to social services easier for refugees and immigrants
 
 I am passionate about exploring the potential of machine learning and AI,Cryprography, and Mobile Software Developement. I am actively seeking projects that challenge and expand my knowledge in these transformative technologies.
 
